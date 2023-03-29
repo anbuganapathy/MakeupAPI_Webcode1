@@ -44,7 +44,7 @@ function resolvePrice(item) {
 
 function initialization() {
   let h1Element = newElement("h1");
-  h1Element.innerText = "GUVI - 1st Web code project (MAKE UP API)";
+  h1Element.innerText = "MAKE UP API";
   document.body.append(h1Element);
 }
 
